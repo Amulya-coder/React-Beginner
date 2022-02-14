@@ -1,8 +1,8 @@
 ## Setup and run
 
 - Step1: Create the React app: `npx create-react-app your-app-name`
-- Step2: Go to the project repo: cd your-app-name
-- Step3: Copy the src and public folder from the following repo https://github.com/Amulya-coder/React-airbnb(You can customize the files according to your preferences) and substitute them in the your-app-name folder.
+- Step2: Go to the project repo: `cd your-app-name`
+- Step3: Copy the files from static and assets folder to your src and public folder from the following repo https://github.com/Amulya-coder/React-airbnb (You can customize the files according to your preferences) and substitute them in the your-app-name folder.
 - Step4: Run your application: npm start
 
 Download the latest stable version of NodeJs [here](https://nodejs.org/en/download/) and install it. Install `yarn`. Run `node --version` and `yarn --version` to verify successful installation.
