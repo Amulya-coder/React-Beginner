@@ -26,6 +26,10 @@ _**Note**_: _For this you need to install git on your machine. You can download 
   `cd React-airbnb`
   
  Inside the newly created project, you can run some built-in commands:
+ 
+ ### Run app
+
+Download the latest stable version of NodeJs [here](https://nodejs.org/en/download/) and install it. Install `yarn`. Run `node --version` and `yarn --version` to verify successful installation.
 
 npm start or yarn start
 Runs the app in development mode.
