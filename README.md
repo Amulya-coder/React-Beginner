@@ -1,11 +1,20 @@
 ## Setup and run
 
-To setup the project locally follow the instructions:
+Step1: Create the React app: `npx create-react-app your-app-name`
+Step2: Go to the project repo: cd your-app-name
+Step3: Copy the src and public folder from the following repo https://github.com/Amulya-coder/React-airbnb(You can customize the files according to your preferences) and substitute them in the your-app-name folder.
+Step4: Run your application: npm start
+
+Download the latest stable version of NodeJs [here](https://nodejs.org/en/download/) and install it. Install `yarn`. Run `node --version` and `yarn --version` to verify successful installation.
+
+Open http://localhost:3000 to view it in the browser.
+
+The page will automatically reload if you make changes to the code.
 
 #### Fork
 
-Firstly you have to create your own copy of the project on GitHub. You can do this by clicking the Fork button that can be found on the top right corner of the 
-[landing page](https://github.com/Amulya-coder/React-airbnb.github.io) of the repository.
+If you want to create your own copy of the project on GitHub. You can do this by clicking the Fork button that can be found on the top right corner of the repository 
+.
 
 #### Clone
 
@@ -24,15 +33,4 @@ _**Note**_: _For this you need to install git on your machine. You can download 
 - Now after you cloned the repository, get into the React-airbnb.github.io directory by -
 
   `cd React-airbnb`
-  
- Inside the newly created project, you can run some built-in commands:
- 
- ### Run app
 
-Download the latest stable version of NodeJs [here](https://nodejs.org/en/download/) and install it. Install `yarn`. Run `node --version` and `yarn --version` to verify successful installation.
-
-npm start or yarn start
-Runs the app in development mode.
-Open http://localhost:3000 to view it in the browser.
-
-The page will automatically reload if you make changes to the code.
