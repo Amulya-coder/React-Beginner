@@ -34,3 +34,5 @@ _**Note**_: _For this you need to install git on your machine. You can download 
 
   `cd React-airbnb`
 
+#### Screenshots
+![image](https://user-images.githubusercontent.com/66437295/154972231-e826d9b8-1c5e-42cb-a847-0ae6107568d7.png)
